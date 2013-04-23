@@ -1,7 +1,12 @@
 Your code doesn't have to look so sour. I've collected a list of Xcode themes and fonts that you can install. 
 [Read my blog post](http://www.damir.me/posts/xcodes-themes-and-fonts) which also contains a collection of fonts.
 
+** edited @vinhx: added mine, if you prefer :P **
+
 # Xcode theme's
+
+### [Ciapre](https://github.com/vinhnx/Ciapre-Xcode-theme) ###
+![Ciapre](https://f.cloud.github.com/assets/1097578/415653/2ffff682-ac3a-11e2-8f35-ae1bec42c568.png "Ciapre")
 
 ### Darkcloud
 ![Darkcloud](http://www.damir.me/u/manual/darkcloud.jpg)
